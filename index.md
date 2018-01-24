@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Python Project - Group 07
 
-You can use the [editor on GitHub](https://github.com/SijiaYao/PythonProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Deliverable 1 - Project Proposal
 
-### Markdown
+1. Who are your customers?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+2. What are their needs?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+3. What specific problem(s) will you solve?
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+4. Why do these problems need solved?
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Where are you going to pull the data from?
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SijiaYao/PythonProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
