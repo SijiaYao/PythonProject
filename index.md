@@ -18,8 +18,9 @@
     Except from obtaining an estimated price, buyers also want to easily find available vehicles currently on sale in the second-handed market that meet their preferences.
   
 - What specific problem(s) will you solve?
-
-    We will develop a model to estimate the market price of a vehicle based on the vehicle information. Specifically, sellers can input the information of their vehicle, and get a estimated price that is close to its market value, which can serve as a price reference for them to trade in the second-handed market. For buyers, they can input their desired brand, model, and condition information to get an estimated price that gives them an idea of what to expect in the second-handed market. Also, if they already have a target vehicle in the market, they can use our web based tool to see whether that vehicle is overpriced or underpriced.
+    Our program will use python to scrape certain websites to obtain useful data and information, and then also use python to implement 
+our statistical model. 
+    The purpose of this program is to give an estimate of the market price of a vehicle based on the information on second handed vehicle trading websites. Specifically, sellers can input the information of their vehicle, and get a estimated price that is close to its market value, which can serve as a price reference for them to trade in the second-handed market. For buyers, they can input their desired brand, model, and condition information to get an estimated price that gives them an idea of what to expect in the second-handed market. Also, if they already have a target vehicle in the market, they can use our web based tool to see whether that vehicle is overpriced or underpriced.
     
     We will also provide a search tool for buyers to easily search for currently available vehicles that meet their preferences. Buyers can input their preferred brand, model, condition information to get a list of available vehicles that best match their preferences.
 
